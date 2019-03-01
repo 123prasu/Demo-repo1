@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.005">
+  <properties />
+  
+  
+            <testcase name="tc3" time="0.004" classname="seleniumlearning.Annotations1" />
+                <testcase name="tc4" time="0.001" classname="seleniumlearning.Annotations1" />
+      
+</testsuite>

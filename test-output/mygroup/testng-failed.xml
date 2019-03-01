@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [mygroup]" parallel="tests">
+  <test thread-count="5" name="Mytest(failed)" parallel="tests">
+    <groups>
+      <run>
+        <include name="common"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="memdesk.GoogleTest2">
+        <methods>
+          <include name="title"/>
+        </methods>
+      </class> <!-- memdesk.GoogleTest2 -->
+    </classes>
+  </test> <!-- Mytest(failed) -->
+</suite> <!-- Failed suite [mygroup] -->
