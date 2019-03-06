@@ -22,5 +22,8 @@
 	<classpathentry kind="lib" path="C:/Users/pdesire/Downloads/org.apache.commons.io.jar"/>
 	<classpathentry kind="lib" path="C:/Users/pdesire/Downloads/maven-resources-plugin-2.6.jar"/>
 	<classpathentry kind="lib" path="C:/Users/pdesire/Downloads/poi-3.9.jar/poi/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pdesire/Downloads/poi-ooxml-3.9.jar/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pdesire/Downloads/poi-ooxml-schemas-3.9.jar/poi-ooxml-schemas-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pdesire/Downloads/poi-scratchpad-3.9-sources.jar/poi-scratchpad-3.9-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
