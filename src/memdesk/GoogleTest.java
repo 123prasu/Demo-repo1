@@ -36,7 +36,7 @@ public class GoogleTest {
 			driver.manage().deleteAllCookies();
 			driver.manage().timeouts().pageLoadTimeout(40,TimeUnit.SECONDS);
 			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-			driver.get("https://google.co.in/");
+			driver.get("https://www.google.com/");
 		}
 
 
