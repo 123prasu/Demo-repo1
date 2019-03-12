@@ -55,7 +55,7 @@ public class NetzeroReg {
 			WebElement radio1 = radios.get(i);
 
 			String check = radio1.getAttribute("value");
-			if (check.equalsIgnoreCase("1")) {
+			if (check.equalsIgnoreCase("2")) {
 				radio1.click();
 			}
 		}
