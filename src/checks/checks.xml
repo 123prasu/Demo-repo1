@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="checks">
+ <test name="grouping">
+ <groups>
+ <run>
+ <include name = "mem-sub"/>
+ </run>
+ </groups>
+  <classes>
+      <class name="checks.Checks123"/>
+    </classes>
+  </test> <!-- Test -->
+  </suite> <!-- Suite -->
